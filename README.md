@@ -1,4 +1,4 @@
-For predicting customer behaviour, predictive modeling and exploratory data analysis was performed.
+For predicting customer buying behaviour on British Airways, predictive modeling and exploratory data analysis was performed.
 
 Packages used:     pandas,sklearn (scikit-learn), matplotlib and numpy
 
