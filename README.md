@@ -1,8 +1,8 @@
 For predicting customer behaviour, predictive modeling and exploratory data analysis was performed.
 
-Packages used: pandas,sklearn (scikit-learn), matplotlib and numpy
+Packages used:     pandas,sklearn (scikit-learn), matplotlib and numpy
 
-Algorithm used: Random Forest Classificaton (XBG Classifier is another alternative)
+Algorithm used:     Random Forest Classificaton (XBG Classifier is another alternative)
 
 To provide more context, below is a more detailed data description, explaining exactly what each column means:
 
@@ -34,6 +34,6 @@ Procedure:
 8.Random forest is implemented    
 9.Accuracy and AUC score is generated    
 
-RESULT:
-    Accuracy : 84.91 = 85%
+RESULT:    
+    Accuracy : 84.91 = 85%    
     AUC score: 0.5545467812791867
